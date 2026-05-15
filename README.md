@@ -95,6 +95,35 @@ El proyecto fue desarrollado bajo arquitectura **MVC (Modelo – Vista – Contr
 ✔ Módulos operativos
 ✔ Versionado en GitHub
 ✔ Evidencia académica SENA
+## 🔥 Actualización Evidencia GA7-220501096-AA4-EV03
+
+Durante el desarrollo de esta evidencia se realizó la modernización del sistema VetSoft implementando un nuevo componente front-end utilizando tecnologías web actuales.
+
+### ✅ Mejoras implementadas
+
+- Desarrollo de interfaz Front-End con React + Vite.
+- Implementación de Material UI para diseño responsive.
+- Integración completa entre Front-End y Back-End.
+- Consumo de APIs REST mediante Servlets Java.
+- Implementación de operaciones CRUD completas:
+  - Mascotas
+  - Propietarios
+  - Veterinarios
+  - Citas
+  - Diagnósticos
+- Navegación dinámica entre módulos.
+- Actualización de arquitectura cliente-servidor.
+- Integración con base de datos MySQL.
+- Versionamiento completo mediante Git y GitHub.
+
+### 🚀 Tecnologías adicionales implementadas
+
+- React
+- Vite
+- Axios
+- Material UI
+- API REST
+- JSON
 
 ## 👩‍💻 Autora
 
